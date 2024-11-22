@@ -1,5 +1,6 @@
 ## simpleMuJoCo
 Tutorial on how to get started with MuJoCo Simulations.
+Current Tutorial is based on MuJoco Version [3.1.1]
 ### Setup
 make new workspace to get rid of package dependancies
 ```bash

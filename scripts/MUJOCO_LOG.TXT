@@ -1,0 +1,33 @@
+Fri Nov 22 14:08:10 2024
+WARNING: mju_openResource: unknown file '/home/jaeseog/mujoco_ws/simpleMuJoCo/asset/panda/franka_panda_w_objs'
+
+Fri Nov 22 14:58:11 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 14:58:11 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 14:59:21 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 14:59:21 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 14:59:37 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 14:59:37 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 15:00:56 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 15:00:56 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 15:01:49 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+
+Fri Nov 22 15:01:49 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 15M bytes. Time = 0.0000.
+

@@ -337,7 +337,7 @@ class MuJoCoParserClass(object):
             geomgroup_0   = None,
             geomgroup_1   = None,
             geomgroup_2   = None,
-            update        = False,
+                update        = False,
         ):
         """ 
             Set MuJoCo Viewer
@@ -1128,7 +1128,7 @@ class MuJoCoParserClass(object):
         """
         self.viewer.add_marker(
             pos   = p,
-            size  = [0.0001,0.0001,0.0001],
+            size  = [0.00001,0.00001,0.00001],
             rgba  = [1,1,1,0.01],
             type  = mujoco.mjtGeom.mjGEOM_SPHERE,
             label = label,
