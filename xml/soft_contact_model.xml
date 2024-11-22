@@ -1,0 +1,22 @@
+<mujoco model="soft_contact_model">
+    <compiler angle="radian" coordinate="local"/>
+    <option timestep="0.01"/>
+
+    <default>
+        <geom solimp="0.9 0.95 0.001" solref="0.02 1" friction="1"/>
+    </default>
+
+    <worldbody>
+        <!-- Flat plane for contact -->
+        <geom name="floor" type="plane" pos="0 0 0" size="5 5 0.1" rgba="0.8 0.8 0.8 1"/>
+
+        <!-- Sphere with soft contact -->
+        <body name="soft_sphere" pos="0 0 1">
+            <geom name="sphere" type="sphere" size="0.1" rgba="1 0 0 1" density="1000"/>
+        </body>
+
+        <!-- Add a free camera -->
+        <camera name="main_camera" pos="0 -3 2" xyaxes="1 0 0 0 1 0"/>
+    </worldbody>
+
+</mujoco>
